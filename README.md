@@ -1,5 +1,1 @@
-yup
-yup
-yup
-yup
-yup
+a simple javascript fetch api using dog.ceo
